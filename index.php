@@ -171,7 +171,7 @@
                           </div>
                       </div>
                   </div>
-                </div
+                </div>
 
     <div id="loadingSpinner" ><i class="mdi-action-autorenew loading-icon"></i> Loading...</div>
    <!-- <a class="btn btn-primary btn-fab btn-raised mdi-maps-directions-bus btn-bus-fab" id="btn-bus-vid" data-placement="left" title="" data-original-title="Search by Bus ID" data-toggle-beta="tooltip" data-toggle='modal' data-target="#modal-vid-info"></a>-->
