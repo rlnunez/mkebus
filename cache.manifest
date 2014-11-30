@@ -1,0 +1,27 @@
+CACHE MANIFEST
+# v0.2 2014-11-29 - Added slide out menu with placeholders
+
+# Explicitly cached 'master entries'.
+CACHE:
+http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css
+http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css
+http://fezvrasta.github.io/snackbarjs/dist/snackbar.min.css
+/_assets/css/ripples.min.css
+/_assets/css/material-wfont.min.css
+/_assets/fonts/glyphicons-halflings-regular.eot
+/_assets/fonts/glyphicons-halflings-regular.svg
+/_assets/fonts/glyphicons-halflings-regular.ttf
+/_assets/fonts/glyphicons-halflings-regular.woff
+/_assets/fonts/Material-Design-Icons.eot
+/_assets/fonts/Material-Design-Icons.svg
+/_assets/fonts/Material-Design-Icons.ttf
+/_assets/fonts/Material-Design-Icons.woff
+/_assets/img/bus.png
+http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js
+http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js
+http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js
+http://fezvrasta.github.io/snackbarjs/dist/snackbar.min.js
+http://cdnjs.cloudflare.com/ajax/libs/noUiSlider/6.2.0/jquery.nouislider.min.js
+
+NETWORK:
+*
